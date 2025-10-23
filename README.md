@@ -30,23 +30,23 @@ A lightweight and fully functional **Python-based trading bot** that interacts w
 
 ##  Installation  
 
-### 1️⃣ Clone the repository  
+### 1.Clone the repository  
 
 ```bash
 git clone https://github.com/Krishnasingh020/trading-bot.git
 cd trading-bot
 ```
-## Create a virtual environment 
+## 2.Create a virtual environment 
 ```bash
 python -m venv venv
 source venv/bin/activate   # for Linux/Mac
 venv\Scripts\activate      # for Windows
 ```
-## Install dependencies
+## 3.Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-## Configuration 
+## 4.Configuration 
 Pass credentials via CLI
 ```bash
 python trading_bot.py \
@@ -54,7 +54,7 @@ python trading_bot.py \
   --api-secret YOUR_BINANCE_API_SECRET
 ```
 
-## Future Enhancements
+## 5.Future Enhancements
 
 - Add frontend dashboard (React or Flask UI)
 
