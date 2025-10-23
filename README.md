@@ -73,7 +73,8 @@ Use this project at your own discretion and always test on Binance Testnet befor
 
 ## Author
 Krishna-singh
-(mailto:workforkrishnasingh@gmail.com)
+
+📧[workforkrishnasingh@gmail.com]
 
 
 
