@@ -1,3 +1,4 @@
+### Simplified Trading Bot (cli)
 1) Create and activate virtualenv (recommended)
    python3 -m venv venv
    source venv/bin/activate
